@@ -1,4 +1,7 @@
-tensorflow
-scikit-learn
+streamlit
+numpy
 pandas
+scikit-learn
+tensorflow
 keras
+pickle-mixin
